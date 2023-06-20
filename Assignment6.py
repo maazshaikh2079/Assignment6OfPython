@@ -13,7 +13,7 @@
 # Date   : 20-06-2023
 
 # Program:-
-def ds(roll_no,name=''):
+def ds(roll_no,name):
     yield roll_no
     yield name;
 
