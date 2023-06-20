@@ -66,6 +66,14 @@ dsReturn=ds(rn,nm);
 infoDict={ "Roll no.": next(dsReturn), "Name": next(dsReturn) }
 print("Information 'Dictionary' :",infoDict);
 
+del infoList;
+
+del infoTuple;
+
+del infoSet;
+
+del infoDict;
+
 # Output:-
 # Information  'List'      : [109, 'Maaz']
 
